@@ -1,0 +1,13 @@
+/* Explore and Study of TCP/IP utilities and Network Commands on Linux/Windows.
+i) Ping 
+ii) ipconfig / ifconfig
+iii) Hostname 
+iv) Whois
+v) Netstat 
+vi) Route
+vii) Tracert/Traceroute/Tracepath
+viii) NSlookup
+ix) Arp
+x) Finger
+xi) Port Scan / nmap
+*/

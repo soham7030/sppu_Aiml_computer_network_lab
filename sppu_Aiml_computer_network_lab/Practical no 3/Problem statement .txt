@@ -1,0 +1,4 @@
+/*Using a Network Simulator (e.g. packet tracer) Configure
+i) Static Routing
+ii) Default Routing
+*/

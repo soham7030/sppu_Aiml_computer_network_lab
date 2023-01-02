@@ -1,0 +1,11 @@
+
+
+/*
+Using a Network Simulator (e.g. packet tracer) Configure
+i) EIGRP – Explore Neighbor-ship Requirements and Conditions, its K Values Metrics Assignment and 
+Calculation,
+ii) RIPv2 
+iii) OSPF – Explore Neighbor-ship Condition and Requirement, Neighbor-ship states, OSPF Metric
+Cost Calculation
+
+*/

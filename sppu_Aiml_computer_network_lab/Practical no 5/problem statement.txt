@@ -1,0 +1,8 @@
+
+
+
+/* Using a Network Simulator (e.g. packet tracer) Configure
+i) Network Address Translation: Static, Dynamic & PAT (Port Address Translation)
+ii) Access Control lists – Standard & Extended.
+iii) VLAN, Dynamic trunk protocol and spanning tree protocol.
+*/

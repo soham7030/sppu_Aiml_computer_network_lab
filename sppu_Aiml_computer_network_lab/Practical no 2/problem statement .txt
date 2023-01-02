@@ -1,0 +1,5 @@
+/*
+Using a Network Simulator (e.g. packet tracer) Configure
+i) A router using router commands,
+ii) Sub-netting of a given network
+*/
